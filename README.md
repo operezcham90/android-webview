@@ -22,6 +22,9 @@ webSettings.setJavaScriptEnabled(true);
 webView.loadUrl("file:///android_asset/index.html");
 ```
 * Crea la carpeta de recursos (`assets`) para los archivos adicionales.
+```
+app > New > Folder > Assets Folder
+```
 * Agrega un archivo `index.html` estándar.
 * Define el idioma del texto en el archivo como español mexicano (`es-MX`).
 ```
