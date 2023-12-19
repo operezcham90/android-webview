@@ -1,6 +1,6 @@
 # Aplicación de Android con WebView
 
-Este es un tutorial para crear una aplicación de Android que incluye un WebView para cargar un archivo HTML local. El lenguaje utilizado es Java y el entorno de desarrollo es Android Studio Electric Eel (2022.1.1).
+Este es un tutorial para crear una aplicación de Android que incluye un WebView simple. El lenguaje utilizado es Java y el entorno de desarrollo es Android Studio Electric Eel (2022.1.1).
 
 ## Pasos
 
